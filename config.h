@@ -9,10 +9,10 @@ static const Block blocks[] = {
     {"",		"dwm.getDisk.sh",			10,			15},
 	{"",		"dwm.getVolume.sh",			0,			10},
 	{"",		"dwm.getBattery.sh",		5,			3},
-	{"",		"dwm.getInternet.sh",		5,			4},
+    {"",		"dwm.getWeather.sh",		18000,		5},
 	{"",		"dwm.getClock.sh",			60,			1},
-    //{"",		"dwm.getWeather.sh",		18000,		5},
     {"",		"dwm.getMoonPhase.sh",		18000,		17},
+	{"",		"dwm.getInternet.sh",		5,			4},
 	{"",		"dwm.getPackages.sh",		0,			8},
 };
 
