@@ -12,6 +12,7 @@ static const Block blocks[] = {
     {""   , "dwm.getMoonPhase.sh" , 18000 , 17} ,
     {""   , "dwm.getInternet.sh"  , 5     , 4}  ,
     {""   , "dwm.getPackages.sh"  , 0     , 8}  ,
+    {""   , "rainbarf.sh"         , 1     , 18} ,
 };
 
 static char *delim = ",";
