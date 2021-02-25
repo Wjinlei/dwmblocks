@@ -1,7 +1,7 @@
 static const Block blocks[] = {
     {""   , "dwm.getNetTraf.sh"   , 1     , 16} ,
     {""   , "dwm.getMail.sh"      , 0     , 12} ,
-    {""   , "dwm.getCpu.sh"       , 10    , 13} ,
+    //{""   , "dwm.getCpu.sh"       , 10    , 13} ,
     //{""   , "rainbarf.sh"         , 1     , 18} ,
     {""   , "dwm.getMemory.sh"    , 10    , 14} ,
     {""   , "dwm.getDisk.sh"      , 10    , 15} ,
